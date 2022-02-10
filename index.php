@@ -13,6 +13,7 @@
    
 </head>
 <body>
+    <p>Make some choices and reveal your pet</p>
 <h2>AJAX Pet Adoption Agency</h2>
 <p>Below is a starter page for the AJAX Pet Adoption Agency assignment.</p>
 <div id="output">
